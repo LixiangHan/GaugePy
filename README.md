@@ -15,6 +15,8 @@ pip install -e gaugepy
 
 ## Usage
 
+**Note:** This tool requires root/sudo privileges to access hardware performance counters. Please run your scripts with `sudo -E` command.
+
 ### CPU HPC Profiling
 ```python
 import gaugepy
@@ -61,4 +63,4 @@ If you find GaugePy useful in your research, please consider citing:
 
 ## Disclaimer
 
-This library is not fully tested and may not work on all platforms. If you find any issues, feel free to contribute to this project.
+**This library is not fully tested and may not work on all platforms. If you find any issues, feel free to contribute to this project.**
