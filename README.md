@@ -58,3 +58,7 @@ If you find GaugePy useful in your research, please consider citing:
   howpublished = {\url{https://github.com/LixiangHan/GaugePy}},
 }
 ```
+
+## Disclaimer
+
+This library is not fully tested and may not work on all platforms. If you find any issues, feel free to contribute to this project.
